@@ -1,0 +1,23 @@
+{
+  "name": "Algorithms",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sojida/Algorithms.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sojida/Algorithms/issues"
+  },
+  "homepage": "https://github.com/sojida/Algorithms#readme",
+  "dependencies": {
+    "jest": "^26.6.3"
+  }
+}
